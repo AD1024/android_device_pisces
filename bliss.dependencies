@@ -1,0 +1,9 @@
+[
+  {
+   "remote": "github",
+   "repository":  "android_devices_pisces/kernel",
+   "target_path": "device/xiaomi/pisces/kernel",
+   "branch": "cm-12.1",
+   "revision": "lp5.1"
+  }
+]
